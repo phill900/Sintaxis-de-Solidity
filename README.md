@@ -5,11 +5,14 @@ crear la estructura basica que sigue un contracto en solidity
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity >=0.8.2 <0.9.0;
 
+// Aquí van importaciones de contratos
+// Aquí van interfaces
+
 contract EstructuraContrato {
 // Tipos de datos, variables
 // Vectores
 //Eventos
 //constructor
 //funciones
-////condicionales
+//condicionales
 }
